@@ -1,0 +1,15 @@
+:root {
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.page {
+  padding: 32px 32px 0px;
+}
+
+@media (min-width: 720px) {
+  .page {
+    padding: 48px 140px 0px;
+    color: $font-color-dark-blue;
+  }
+}

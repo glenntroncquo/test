@@ -1,0 +1,13 @@
+.intro{
+    display: flex;
+    justify-content: space-between;
+    h2 {
+        font-size: 48px;
+    }
+
+    &-illustrations{
+        img {
+            width: 160px;
+        }
+    }
+}
